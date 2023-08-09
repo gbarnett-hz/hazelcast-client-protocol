@@ -1151,3 +1151,18 @@ customTypes:
         type: String
         nullable: false
         since: 2.6
+  - name: WanConsumerConfig
+    since: 2.7
+    params:
+      - name: persistWanReplicatedData
+        type: boolean
+        nullable: true
+        since: 2.7
+      - name: className
+        type: String
+        nullable: false
+        since: 2.7
+      - name: properties
+        type: Map_String_Data
+        nullable: true
+        since: 2.7

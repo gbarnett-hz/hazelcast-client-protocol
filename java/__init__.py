@@ -75,6 +75,8 @@ _java_types_common = {
     "TieredStoreConfig": "com.hazelcast.config.TieredStoreConfig",
     "SqlSummary": "com.hazelcast.jet.impl.SqlSummary",
     "PartitioningAttributeConfig": "com.hazelcast.config.PartitioningAttributeConfig",
+    "WanConsumerConfig": "com.hazelcast.config.WanConsumerConfig",
+    "Map_String_Data": "java.util.Map<java.lang.String, com.hazelcast.internal.serialization.Data>",
 }
 
 _java_types_encode = {
