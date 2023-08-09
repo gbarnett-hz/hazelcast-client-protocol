@@ -1308,7 +1308,7 @@ methods:
           doc: |
             WAN replication configuration name.
         - name: consumerConfig
-          type: Data
+          type: WanConsumerConfig
           nullable: true
           since: 2.7
           doc: |

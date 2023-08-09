@@ -125,7 +125,8 @@
             "TieredStoreConfig",
             "PartitioningAttributeConfig",
             "List_PartitioningAttributeConfig",
-            "Map_String_Data"
+            "Map_String_Data",
+            "WanConsumerConfig"
           ]
         },
         "nullable": {
